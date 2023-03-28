@@ -1,5 +1,5 @@
 # Death-By-1000-Tags
-Filter spreadsheets by tags in python!
+Filter spreadsheets by tags in python! Built for a friend who wanted to filter a spreadsheet of units from a video game, but applicable to all filtering tasks.
 
 Demo:
 ![death_by_1000_tags_demo_small](https://user-images.githubusercontent.com/40725819/228105097-e1a55b76-fb91-4025-b1e1-fdbc91689c19.gif)
