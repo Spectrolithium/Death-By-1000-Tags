@@ -7,4 +7,12 @@ Demo:
 Features:
 - User friendly, interactive widget interface
 - Removable tags selectable from different categories
-- Works with Google Sheets! Just create your own service account
+- Filter by multiple tags from multiple categories simultaneously
+- Works with Google Sheets! Just follow a tutorial (ex. https://ploomber.io/blog/gsheets/) and share your sheets with your Google Service Account
+
+Libraries used:
+- gspread
+- ipywidgets
+- pandas
+- numpy
+- re
